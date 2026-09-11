@@ -16,8 +16,3 @@ tags:
 family:
 - name: apex-ai-behaviour
   root: true
-capabilities:
-  files: false
-  code: false
-  configuration: true
-  options: false
