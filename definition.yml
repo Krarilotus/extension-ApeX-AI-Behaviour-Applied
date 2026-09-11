@@ -1,11 +1,23 @@
 name: ApeX-AI-Behaviour-Applied
-display-name: ApeX-AI-Behaviour-Applied
+display-name: "Apply ApeX AI Behaviour"
 type: plugin
 author: Xander10alpha
-version: 1.4.0
+version: 1.4.1
 dependencies:
   ApeX-AI-Behaviour: ^1.4.0
   framework: ^3.0.0
   frontend: ^1.0.0
 meta:
   version: 1.0.0
+tags:
+- ai
+- aic
+- behavior
+family:
+- name: apex-ai-behaviour
+  root: true
+capabilities:
+  files: false
+  code: false
+  configuration: true
+  options: false
