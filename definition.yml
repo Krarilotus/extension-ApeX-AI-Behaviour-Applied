@@ -1,12 +1,12 @@
 name: ApeX-AI-Behaviour-Applied
-display-name: "Apply ApeX AI Behaviour"
+display-name: Apply ApeX AI Behaviour
 type: plugin
 author: Xander10alpha
 version: 1.4.1
 dependencies:
   ApeX-AI-Behaviour: ^1.4.0
   framework: ^3.0.0
-  frontend: ^1.0.0
+  frontend: '>=1.0.17 <2.0.0'
 meta:
   version: 1.0.0
 tags:
